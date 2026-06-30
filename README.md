@@ -15,6 +15,8 @@ The goal was to turn a loosely defined product brief into a working dashboard wi
 
 * **Repository:** https://github.com/AndreiBBN/ascendra-workspaces
 * **Deployed app:** https://andreibaban.com/ascendra-workspaces
+  * **Email:** `admin@admin.com`
+  * **Password:** `12345`
 * **Developer dashboard:** https://andreibaban.com/ascendra-workspaces/developer
 * **Admin dashboard:** https://andreibaban.com/ascendra-workspaces/dashboard
 * **Figma / design file:** https://www.figma.com/design/WQ5O5C6cMufkJDCkPI5X8i/Untitled?node-id=0-1&t=kcfL5JxGxWQ7GMLo-1
